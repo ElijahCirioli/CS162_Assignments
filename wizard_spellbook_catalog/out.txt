@@ -1,0 +1,97 @@
+SORTED BY NUMBER OF PAGES
+Spells_for_Dummies    305
+Wacky_Witch_Handbook    1344
+Enchiridion    2090
+Charming_Charms    4460
+
+SORTED BY AVERAGE SUCCESS RATE
+Forbidden_Tome    32.825001
+Necronomicon    43.661999
+The_Uses_of_Excalibur    47.876999
+Enchiridion    59.715401
+Dorian    64.162498
+Wacky_Witch_Handbook    66.943336
+Charming_Charms    79.415253
+Spells_for_Dummies    79.730003
+
+SORTED BY SPELL EFFECT
+Bubble_Beam    bubble
+Dog_Stretch    bubble
+Smile    bubble
+Lucky_One    bubble
+Exploratory_Maneuver    bubble
+Introductory_Levitation    bubble
+Space_Out    memory_loss
+Wacky_Dreams    memory_loss
+Adopted_By_Dogs    memory_loss
+Cloud_Dream    memory_loss
+Lovely_Day    memory_loss
+Winning_Day    memory_loss
+Preliminary_Black_Out    memory_loss
+Blasto_Strike    fire
+Not_Ice_Blast    fire
+Blush    fire
+Sunshine    fire
+Music_To_Me    fire
+Strong_Swing    fire
+Beginning_Blast    fire
+SORTED BY NUMBER OF PAGES
+Spells_for_Dummies    305
+Wacky_Witch_Handbook    1344
+Necronomicon    1890
+Forbidden_Tome    1938
+Enchiridion    2090
+The_Uses_of_Excalibur    3322
+Charming_Charms    4460
+Dorian    50000
+
+SORTED BY AVERAGE SUCCESS RATE
+Forbidden_Tome    32.82
+Necronomicon    43.66
+The_Uses_of_Excalibur    47.87
+Enchiridion    59.71
+Dorian    64.16
+Wacky_Witch_Handbook    66.94
+Charming_Charms    79.41
+Spells_for_Dummies    79.73
+
+SORTED BY SPELL EFFECT
+Dog_Stretch    bubble
+Bubble_Beam    bubble
+Smile    bubble
+Lucky_One    bubble
+Exploratory_Maneuver    bubble
+Introductory_Levitation    bubble
+Wacky_Dreams    memory_loss
+Winning_Day    memory_loss
+Adopted_By_Dogs    memory_loss
+Cloud_Dream    memory_loss
+Space_Out    memory_loss
+Lovely_Day    memory_loss
+Preliminary_Black_Out    memory_loss
+Strong_Swing    fire
+Not_Ice_Blast    fire
+Blush    fire
+Music_To_Me    fire
+Blasto_Strike    fire
+Sunshine    fire
+Beginning_Blast    fire
+Snake_Bite    poison
+Cthulhu_Venom    poison
+Lydian    poison
+Avada_Kedavra    death
+Deathrock    death
+Nightmare    death
+Deadly_Details    death
+Deadly_Battle    death
+
+SORTED BY NUMBER OF PAGES
+Spells_for_Dummies    305
+Wacky_Witch_Handbook    1344
+Necronomicon    1890
+Forbidden_Tome    1938
+Enchiridion    2090
+The_Uses_of_Excalibur    3322
+Charming_Charms    4460
+Dorian    50000
+
